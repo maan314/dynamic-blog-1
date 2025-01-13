@@ -13,7 +13,7 @@ export default function Home() {
             Artificial Intelligence (AI) has rapidly evolved from a futuristic
             concept to a vital component of modern life. From healthcare to
             entertainment, AI has revolutionized how we work, interact, and
-            innovate. But what makes AI such a game-changer? In this blog, we'll
+            innovate. But what makes AI such a game-changer? In this blog, we ll
             explore the fascinating world of AI, its applications, and its
             potential to shape the future.
           </p>
